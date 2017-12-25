@@ -1,0 +1,17 @@
+{
+  "name": "nodejs-web-app1",
+  "version": "0.0.0",
+  "description": "NodejsWebApp1",
+  "scripts": {
+    "start": "node server"
+  },
+  "engines": {
+    "node": "~6.10.x"
+  },
+  "author": {
+    "name": "Jerry"
+  },
+  "dependencies": {
+    "express": "^4.16.2"
+  }
+}
